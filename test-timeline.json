@@ -2,7 +2,7 @@
   "pfizerFacts": [
     {
       "description": "Approval of Pfizer/BioNTech vaccine in UK",
-      "title": "UK Approval2",
+      "title": "UK Approval",
       "date": "2020/12/02"
     },
     {
@@ -50,6 +50,13 @@
       "description": "Dosage - 2 doses, 3 weeks apart",
       "title": "US Approval",
       "start": "2020/12/11",
+      "end": "2021/06/30",
+      "color": "#00a950"
+    },
+    {
+      "description": "Test overlap",
+      "title": "Test overlap",
+      "start": "2020/10/10",
       "end": "2021/06/30",
       "color": "#00a950"
     }
